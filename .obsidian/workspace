@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "22cd1a5be77d0e69",
+        "id": "5546ecb04baf0d29",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -88,24 +88,15 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "020168bc4310bcdd",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "22cd1a5be77d0e69",
+  "active": "5546ecb04baf0d29",
   "lastOpenFiles": [
     "Chronology of a Dark Age.md",
     "Campaign/Cartography/Locations/Campaign Maps.md",
