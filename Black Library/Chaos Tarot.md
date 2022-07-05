@@ -1,0 +1,1 @@
+The Chaos Tarot is a blasphemous travesty of the Emperor's Tarot, used by Cult leaders to communicate with their patron Chaos God.

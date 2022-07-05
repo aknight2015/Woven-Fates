@@ -1,0 +1,1 @@
+Assassinate a rogue psyker trying to start a cult.

@@ -1,0 +1,1 @@
+Omis Prion (or Omis-Prion) is a world in the Vigilus system, and has extensive Necron Tomb complexes. The T'au have a presence there.

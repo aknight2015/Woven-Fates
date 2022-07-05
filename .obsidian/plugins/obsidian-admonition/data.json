@@ -1,0 +1,104 @@
+{
+  "userAdmonitions": {
+    "GM_Note": {
+      "type": "GM_Note",
+      "color": "255, 0, 0",
+      "icon": {
+        "name": "first-order-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Important",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "khorne": {
+      "type": "khorne",
+      "color": "87, 5, 5",
+      "icon": {
+        "name": "empire",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Khorne",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "nurgle": {
+      "type": "nurgle",
+      "color": "14, 93, 20",
+      "icon": {
+        "name": "empire",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Nurgle",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "tzeentch": {
+      "type": "tzeentch",
+      "color": "30, 71, 235",
+      "icon": {
+        "name": "empire",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Tzeentch",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "slaanesh": {
+      "type": "slaanesh",
+      "color": "196, 6, 234",
+      "icon": {
+        "name": "empire",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Slaanesh",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "chaos": {
+      "type": "chaos",
+      "color": "224, 111, 36",
+      "icon": {
+        "name": "empire",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Chaos",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "9.0.3",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [
+    "octicons",
+    "rpg"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.19765d"
+}

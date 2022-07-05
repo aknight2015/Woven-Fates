@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "b73f7ca864d5cf83",
+    "type": "split",
+    "children": [
+      {
+        "id": "22cd1a5be77d0e69",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chronology of a Dark Age.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70fcdd223365b5c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ca8d27a310dffbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad872d1e457064bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a6b40202aa421fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fbbc98ce181692f",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3d113b3e1b242f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cef31e9334eb436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03a3625dbe71468",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chronology of a Dark Age.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "020168bc4310bcdd",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "22cd1a5be77d0e69",
+  "lastOpenFiles": [
+    "Chronology of a Dark Age.md",
+    "Campaign/Cartography/Locations/Campaign Maps.md",
+    "Campaign/Cartography/Locations/Gilead System/Nethreus.md",
+    "Campaign/Campaign Timeline/Campaign Timeline.md",
+    "Campaign/Cartography/Locations/Gilead System/Gilead Primus.md",
+    "Campaign/Cartography/Locations/Chancer's Vale.md",
+    "Campaign/Cartography/Locations/Vigilus System/Geotrope XII.md",
+    "Campaign/Unfiled/Test.md",
+    "Timeline.md",
+    "Campaign/Game/Archtypes/Tiers.md"
+  ]
+}

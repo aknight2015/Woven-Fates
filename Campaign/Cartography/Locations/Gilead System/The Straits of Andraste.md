@@ -1,0 +1,7 @@
+# The Straits of Andraste
+
+The tides of the Great Rift shifted and roiled, forming what seemed at first to be a stable corridor that might offer passage to Imperium Sanctus from the Gilead. However, this appearance was an Empyrean mirage, luring dozens of vessels to their doom as they broke apart or were lost forever upon the Warp shoals. Only after many decades had passed and all hope seemed lost, was the promise of this dangerous journey fulfilled.
+
+Rogue Trader Jakel Varonius and his fleet did the impossible: by some navigational miracle, they found a route through the Great Rift. They dubbed the channel of seemingly safe passage through the Warp storm ‘the Straits of Andastre’, named after Varonius’s forward scout frigate.
+
+Lady Octavia Ecedes Omincara, an ancient and skilled Navigator and elder of the renowned House Omincara, was aboard the Rogue Trader’s flagship. Only through Lady Octavia’s impressive power and a healthy portion of good fortune was the fleet able to arrive in the Gilead System. Once there, the Rogue Trader’s charismatic leadership, his influential Warrant of Trade, and the weight of House Omincara’s aid convinced the Imperial officials of the system to bow to the Varonius Dynasty as their saviour and guardian. A symbol of the apparently still thriving Imperium, Varonius is to many a beacon of hope that the Emperor’s light will return. Others see him as a charlatan, another flickering flame of false hope in the darkness of the Imperium Nihilus

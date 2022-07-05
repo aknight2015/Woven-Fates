@@ -1,0 +1,8 @@
+- Imperial/Mechanicus/Inquisition Research Station
+- Full Gellar Field coverage
+- Like a bathosphere
+	- Submerges into the Warp
+	- Collects Data
+	- Resurfaces
+	- No Warp Drive,  so no travel through Warp
+		- Emergency systems if displaced

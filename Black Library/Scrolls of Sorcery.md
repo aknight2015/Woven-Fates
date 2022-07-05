@@ -1,0 +1,1 @@
+The Scrolls of Sorcery are artifacts of Tzeentch used by the Blue Scribes. These scrolls contain details of every spell ever written - though finding the correct one at the opportune moment is something of a challenge.
