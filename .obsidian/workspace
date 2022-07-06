@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Campaign/Player Materials/PlayMat-Home.md",
+            "file": "GM-Home.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Player Materials/PlayMat-Home.md",
+                "file": "GM-Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,12 +98,12 @@
   },
   "active": "1a4a91a63fa0906d",
   "lastOpenFiles": [
+    "GM-Home.md",
+    "Destiny.md",
     "Campaign/Player Materials/PlayMat-Home.md",
     "Assets/Books/Wrath & Glory/Archtype/1_Character.png",
     "Assets/Books/Wrath & Glory/Archtype/30_Character.png",
     "PC-Home.md",
-    "Destiny.md",
-    "GM-Home.md",
     "Campaign/Bestiary/List.md",
     "Campaign/Bestiary/Adversaries/Chaos/Chaos Spawn.md",
     "Assets/Books/Wrath & Glory/Character/Character_2.png",
