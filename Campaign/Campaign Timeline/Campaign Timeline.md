@@ -63,3 +63,6 @@ title: Goremaw
 content:When the players confront any authority figure with thier suspicions it will trigger combat. After a brief period Jakel and the Warden will arrive. The Warden will be carying Goremaw.
 ```
 
+
+
+[[GM-Home|Return to Home]]

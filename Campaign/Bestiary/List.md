@@ -1,9 +1,10 @@
 
+
 | Imperial             | Chaos                      | Tau | Tyranid | Necron | Orc |
 | -------------------- | -------------------------- | --- | ------- | ------ | --- |
-| [[Mother Katine]]    | [[Chaos Spawn]]            |     |         |        |     |
+| [[Mother Katine]]    | [[Chaos Spawn]]            |     | [[Pauper Princes]]        |        |     |
 | [[Sister Reinnoris]] | [[Chaos Space Marine]]     |     |         |        |     |
-|                      | [[Cult Leader]]            |     |         |        |     |
+| [[Inquisitor Alpha Omicron 113]]                     | [[Cult Leader]]            |     |         |        |     |
 |                      | [[Cult Magnus]]            |     |         |        |     |
 |                      | [[Cultist]]                |     |         |        |     |
 |                      | [[Daemonette]]             |     |         |        |     |
@@ -14,3 +15,7 @@
 |                      | [[Possessed Mortal]]       |     |         |        |     |
 |                      | [[Poxwalker]]              |     |         |        |     |
 |                      | [[Rogue Psyker]]           |     |         |        |     |
+|                      | [[Daemonic Threats]]                           |     |         |        |     |
+
+
+[[GM-Home|Return to Home]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chronology of a Dark Age.md",
+            "file": "Campaign/Player Materials/PlayMat-Home.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chronology of a Dark Age.md",
+                "file": "Campaign/Player Materials/PlayMat-Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "1a4a91a63fa0906d",
   "lastOpenFiles": [
-    "Chronology of a Dark Age.md",
-    "Campaign/Cartography/Locations/Campaign Maps.md",
-    "Campaign/Cartography/Locations/Gilead System/Nethreus.md",
-    "Campaign/Campaign Timeline/Campaign Timeline.md",
-    "Campaign/Cartography/Locations/Gilead System/Gilead Primus.md",
-    "Campaign/Cartography/Locations/Chancer's Vale.md",
-    "Campaign/Cartography/Locations/Vigilus System/Geotrope XII.md",
-    "Campaign/Unfiled/Test.md",
-    "Timeline.md",
-    "Campaign/Game/Archtypes/Tiers.md"
+    "Campaign/Player Materials/PlayMat-Home.md",
+    "Assets/Books/Wrath & Glory/Archtype/1_Character.png",
+    "Assets/Books/Wrath & Glory/Archtype/30_Character.png",
+    "PC-Home.md",
+    "Destiny.md",
+    "GM-Home.md",
+    "Campaign/Bestiary/List.md",
+    "Campaign/Bestiary/Adversaries/Chaos/Chaos Spawn.md",
+    "Assets/Books/Wrath & Glory/Character/Character_2.png",
+    "Assets/Books/Wrath & Glory/Character/Character_1.png"
   ]
 }

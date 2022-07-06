@@ -75,6 +75,18 @@
       "title": "Chaos",
       "injectColor": true,
       "noTitle": false
+    },
+    "player": {
+      "type": "player",
+      "color": "17, 255, 0",
+      "icon": {
+        "name": "rebel",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Player",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
