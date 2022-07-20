@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1a4a91a63fa0906d",
+        "id": "739c931ff0d85df8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GM-Home.md",
+            "file": "Chronology of a Dark Age.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM-Home.md",
+                "file": "Chronology of a Dark Age.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a4a91a63fa0906d",
+  "active": "739c931ff0d85df8",
   "lastOpenFiles": [
+    "Chronology of a Dark Age.md",
+    "Campaign/Cartography/Locations/Gilead System/Vulkaris.md",
+    "Campaign/Game/Quests and Missions/Retrieve/Untitled.md",
+    "Campaign/Overview.md",
+    "Campaign/Cartography/Locations/Vigilus System/Omnis Prion.md",
+    "Campaign/Bestiary/List.md",
     "GM-Home.md",
     "Destiny.md",
     "Campaign/Player Materials/PlayMat-Home.md",
-    "Assets/Books/Wrath & Glory/Archtype/1_Character.png",
-    "Assets/Books/Wrath & Glory/Archtype/30_Character.png",
-    "PC-Home.md",
-    "Campaign/Bestiary/List.md",
-    "Campaign/Bestiary/Adversaries/Chaos/Chaos Spawn.md",
-    "Assets/Books/Wrath & Glory/Character/Character_2.png",
-    "Assets/Books/Wrath & Glory/Character/Character_1.png"
+    "Assets/Books/Wrath & Glory/Archtype/1_Character.png"
   ]
 }
