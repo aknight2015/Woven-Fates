@@ -59,3 +59,9 @@ Within the capsules were the refined remains of pariahs, individuals who, like t
 
 ---
 Take the pariah missiles and twist them around. Make it so that it opens a stable warp rift.
+
+```ad-GM_Note
+title:Water Death World
+collapse: none
+Aquatic Death World with a hive city similar to an offshore drilling rig.
+```

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "739c931ff0d85df8",
+        "id": "7b192a770b7f1979",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chronology of a Dark Age.md",
+            "file": "Campaign/Unfiled/Brainplopings.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chronology of a Dark Age.md",
+                "file": "Campaign/Unfiled/Brainplopings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "739c931ff0d85df8",
+  "active": "7b192a770b7f1979",
   "lastOpenFiles": [
     "Chronology of a Dark Age.md",
     "Campaign/Cartography/Locations/Gilead System/Vulkaris.md",
